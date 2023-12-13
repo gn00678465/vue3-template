@@ -12,6 +12,7 @@
 - 🧹 [ESLint](https://eslint.org/)
 - 🔍 [Vitest](https://vitest.dev/)
 - 🔍 [Cypress](https://www.cypress.io/)
+- 🔍 [husky](https://typicode.github.io/husky/)
 
 ## Getting Started
 
@@ -35,6 +36,10 @@ pnpm run dev
 - [VSCode](https://code.visualstudio.com/)
 - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
 - [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
+
+## Team Work Flow
+
+[Team Work Flow](TEAM_WORK_FLOW.md)
 
 ## Project Scripts
 
