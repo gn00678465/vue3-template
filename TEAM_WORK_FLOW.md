@@ -25,4 +25,5 @@
 - **style**: 與格式有關
   - 不影響程式碼運行的變動，例如：white-space, formatting, missing semi colons
 - **chore**: 不包含 `src` 或 `test` 檔案的相關變動
+- **types**: 改變檔案的類型定義 (Type definition file changes)
 - **revert**: Reverts a previous commit
