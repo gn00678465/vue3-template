@@ -12,7 +12,20 @@ rules:
   type-enum:
     - 2
     - "always"
-    - ["build", "chore", "ci", "docs", "feat", "fix", "perf", "refactor", "revert", "style", "test"]
+    - [
+        "build",
+        "chore",
+        "ci",
+        "docs",
+        "feat",
+        "fix",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "types"
+      ]
   subject-empty:
     - 2
     - "never"
@@ -87,3 +100,7 @@ prompt:
           description: "Reverts a previous commit"
           title: "Reverts"
           emoji: "🗑"
+        types:
+          description: "Type definition file changes"
+          title: "Types"
+          emoji: "🌟"
